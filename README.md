@@ -1,6 +1,6 @@
 # sell-rem
 
-> A Vue.js project
+> vuejs + rem 适配 饿了么创建
 
 ## Build Setup
 
